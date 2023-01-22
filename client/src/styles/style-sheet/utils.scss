@@ -1,0 +1,110 @@
+$primary-blue: #01348d;
+$light-grey: #f4f4fe;
+
+h1 {
+  font-size: 4rem;
+  font-weight: 400;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0 0;
+  margin: 0 0;
+  // line-height: 10rem;
+}
+
+h2 {
+  font-size: 8rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0 0;
+  margin: 0 0;
+  line-height: 10rem;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 0rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0, 0;
+  margin: 0, 0;
+  line-height: normal;
+}
+
+h3 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 0rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0, 0;
+  margin: 0, 0;
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: 0rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #a8a8a8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0, 0;
+  margin: 0, 0;
+  line-height: 1.8rem;
+}
+
+small {
+  font-size: 0.7rem;
+  font-weight: 200;
+  letter-spacing: 0rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #a8a8a8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0, 0;
+  margin: 0, 0;
+  line-height: normal;
+}
+
+.breadCrumb {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: 0rem;
+  font-family: "IBM Plex Sans", "Helvetica Neue", "Helvetica", "Arial",
+    "sans-serif";
+  color: #000;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: auto;
+  text-align: left;
+  padding: 0, 0;
+  margin: 0, 0;
+  line-height: 1.8rem;
+}

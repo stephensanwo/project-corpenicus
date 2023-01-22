@@ -1,0 +1,9 @@
+env
+prototypes
+.ipynb_checkpoints
+.vscode
+__pycache__
+.env
+node_modules
+images
+static

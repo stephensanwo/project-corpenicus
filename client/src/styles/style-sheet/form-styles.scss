@@ -1,0 +1,65 @@
+@import "./utils.scss";
+
+.bx--label {
+  color: #000;
+  font-family: "IBM Plex Sans";
+  font-size: 1rem;
+}
+
+.bx--text-input::placeholder {
+  font-family: "IBM Plex Sans";
+  color: #a8a8a8;
+}
+
+.bx--text-input {
+  font-family: "IBM Plex Sans";
+  color: #000;
+  background-color: #f4f4f4;
+  border-bottom: none;
+}
+
+.bx--text-area::placeholder {
+  font-family: "IBM Plex Sans";
+  color: #a8a8a8;
+}
+
+.bx--text-area {
+  font-family: "IBM Plex Sans";
+  color: #000;
+  background-color: #f4f4f4;
+  border-bottom: none;
+}
+
+.bx--date-picker__input {
+  font-family: "IBM Plex Sans";
+  color: #000;
+  background-color: #f4f4f4;
+  border-bottom: none;
+}
+
+.bx--file-filename {
+  color: green;
+}
+
+.uploadbutton {
+  border: 1px dashed green;
+  color: green;
+  padding: 1rem;
+}
+
+.invalid-input {
+  color: #da1e28;
+}
+
+.login-background {
+  background: url("../../assets/img/Login-Background.png") no-repeat center
+    center/cover;
+}
+
+.login-container {
+  background: #ffffff;
+  padding-top: 2rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}

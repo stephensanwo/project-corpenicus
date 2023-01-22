@@ -1,0 +1,16 @@
+@import "./utils.scss";
+
+.bannerBackground {
+  background: url("../../assets/img/banner-background.png") no-repeat center;
+  min-height: 100vh;
+}
+
+.bx--btn--tertiary {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.bx--btn--tertiary:hover {
+  background-color: #ffffff;
+  color: #000000;
+}

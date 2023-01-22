@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index",
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Sanwo",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.9.6",
+    "apollo-server": "^2.19.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "description": ""
+}

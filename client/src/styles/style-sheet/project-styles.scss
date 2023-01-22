@@ -1,0 +1,26 @@
+@import "./utils.scss";
+
+.projectBackground {
+  height: 90vh;
+}
+
+.welcomeHeader {
+  background-color: #ffffff;
+  border-bottom: 1px solid #a8a8a8;
+  margin-bottom: 4rem;
+  height: 8vh;
+  align-items: center;
+}
+
+.projectsNav {
+  margin-top: 2rem;
+}
+
+.projects-header {
+  background-color: #005eb8;
+  color: #ffffff;
+}
+
+.projects-header .bx--structured-list-th {
+  color: #ffffff;
+}
